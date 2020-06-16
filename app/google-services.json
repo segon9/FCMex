@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "594330940830",
+    "firebase_url": "https://sopt-fcm-exercise-46e91.firebaseio.com",
+    "project_id": "sopt-fcm-exercise-46e91",
+    "storage_bucket": "sopt-fcm-exercise-46e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594330940830:android:7be6c6789274f44187d28f",
+        "android_client_info": {
+          "package_name": "com.example.fcmex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594330940830-cft49730ks8vuoptv4oscp04dtlgrcqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCsmp09O6Ak6bAGqRN8jwFF-DQe_GABo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594330940830-cft49730ks8vuoptv4oscp04dtlgrcqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594330940830:android:91eddf6f0456232287d28f",
+        "android_client_info": {
+          "package_name": "sopt.org.fcm_exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594330940830-cft49730ks8vuoptv4oscp04dtlgrcqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCsmp09O6Ak6bAGqRN8jwFF-DQe_GABo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594330940830-cft49730ks8vuoptv4oscp04dtlgrcqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
